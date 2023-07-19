@@ -1,0 +1,16 @@
+{
+	"private": true,
+	"name": "video-tauri-project",
+	"workspaces": [
+		"packages/*"
+	],
+	"dependencies": {
+		"gatsby-cli": "^5.11.0"
+	},
+	"scripts": {
+		"dev": "yarn workspace my-video-gatsby-site start",
+		"build": "yarn workspace my-video-gatsby-site build",
+		"clean": "yarn workspace my-video-gatsby-site clean",
+		"tauri": "yarn workspace tauri-video-app tauri"
+	}
+}

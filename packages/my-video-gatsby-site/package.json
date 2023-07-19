@@ -1,0 +1,30 @@
+{
+  "name": "my-video-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-video-gatsby-site",
+  "author": "yangwawa0323",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/react": "^2.3.0",
+    "@videojs-player/react": "^1.0.0",
+    "gatsby": "^5.11.0",
+    "gatsby-plugin-mdx": "^5.11.0",
+    "gatsby-plugin-postcss": "^6.11.0",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-json": "^5.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.3",
+    "video.js": "^8.3.0"
+  }
+}
