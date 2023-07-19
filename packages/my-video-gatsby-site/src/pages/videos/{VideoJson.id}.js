@@ -34,8 +34,9 @@ const Video = ({ children, src }) => {
 	return (
 		<div className='flex flex-col justify-center items-center gap-12'>
 			<Header />
-			<div className='flex flex-col justify-center items-center'>
+			<div className='flex flex-col justify-center items-center gap-8'>
 				<h2 className='font-bold text-2xl'>{data.videoJson.title}</h2>
+				<p className='text-gray-500'>{data.videoJson.description}</p>
 			</div>
 			<VideoPlayer options={videoJsOptions} />
 
