@@ -1,32 +1,74 @@
 [
 	{
 		"serial": 1,
-		"title": "如何测试TCP/IP连接？",
-		"description": "当网络出现问题，有什么工具和手段可以找出问题所在了？",
-		"url": "https://test11-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
-	},
-	{
-		"serial": 5,
-		"title": "远程连接使用什么应用工具？",
-		"description": "当网络出现问题，有什么工具和手段可以找出问题所在了？",
-		"url": "https://test11-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
-	},
-	{
-		"serial": 3,
-		"title": "如何从网络测试一个服务是否开启",
-		"description": "当网络出现问题，有什么工具和手段可以找出问题所在了？",
-		"url": "https://test11-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
+		"title": "00-企业云架构设计",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
 	},
 	{
 		"serial": 2,
-		"title": "ping 测试",
-		"description": "当网络出现问题，有什么工具和手段可以找出问题所在了？",
-		"url": "https://test11-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
+		"title": "01-云架构解决方案-上云迁移",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/01-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%B8%8A%E4%BA%91%E8%BF%81%E7%A7%BB.mp4"
+	},
+	{
+		"serial": 3,
+		"title": "02-云架构解决方案-云原生应用设计",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/02-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E8%AE%BE%E8%AE%A1V1.5.mp4"
 	},
 	{
 		"serial": 4,
-		"title": "telent 测试",
-		"description": "当网络出现问题，有什么工具和手段可以找出问题所在了？",
-		"url": "https://test11-1317774396.cos.ap-guangzhou.myqcloud.com/00-%E4%BC%81%E4%B8%9A%E4%BA%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
+		"title": "03-云架构解决方案-构建腾讯云上高可用架构",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/03-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E6%9E%84%E5%BB%BA%E8%85%BE%E8%AE%AF%E4%BA%91%E4%B8%8A%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84v1.5.mp4"
+	},
+	{
+		"serial": 5,
+		"title": "04-业务流量高峰处理架构设计",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/04-%E4%B8%9A%E5%8A%A1%E6%B5%81%E9%87%8F%E9%AB%98%E5%B3%B0%E5%A4%84%E7%90%86%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1v1.5.mp4"
+	},
+	{
+		"serial": 6,
+		"title": "05-云架构解决方案-信息安全",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/05-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8V1.5.mp4"
+	},
+	{
+		"serial": 7,
+		"title": "06-云架构解决方案-大数据应用",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/06-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8V1.6.mp4"
+	},
+	{
+		"serial": 8,
+		"title": "07-云架构解决方案-构建混合云",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/07-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E6%9E%84%E5%BB%BA%E6%B7%B7%E5%90%88%E4%BA%91V1.5.mp4"
+	},
+	{
+		"serial": 9,
+		"title": "08-云架构解决方案-AI解决方案",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/08-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-AI%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88V1.4.mp4"
+	},
+	{
+		"serial": 10,
+		"title": "09-云架构解决方案-游戏行业解决方案",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/09-%E4%BA%91%E6%9E%B6%E6%9E%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88V1.5.mp4"
+	},
+	{
+		"serial": 11,
+		"title": "10-视频行业解决方案",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/10-%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%9A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88V1.5.mp4"
+	},
+	{
+		"serial": 12,
+		"title": "11-架构设计实践",
+		"description": "",
+		"url": "https://train-1317774396.cos.ap-guangzhou.myqcloud.com/11-%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5V1.1.mp4"
 	}
 ]

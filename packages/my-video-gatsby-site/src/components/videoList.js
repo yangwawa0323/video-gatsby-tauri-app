@@ -1,3 +1,5 @@
+/** @format */
+
 import React from 'react';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 
@@ -18,8 +20,8 @@ const VideoList = () => {
 	return (
 		<div>
 			<ol className='leading-8'>
-				{data.allVideoJson.nodes.map((video) => (
-					<li>
+				{data.allVideoJson.nodes.map((video, index) => (
+					<li key={index}>
 						第<span className='font-bold text-gray-600'>{video.serial}</span>章:{' '}
 						<Link
 							className='font-extrabold'

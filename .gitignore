@@ -1,0 +1,8 @@
+node_modules
+.yarn
+public
+.cache
+
+
+// Tauri built target
+target
